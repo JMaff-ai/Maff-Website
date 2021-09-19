@@ -65,7 +65,7 @@ const menuItemElement4 = (
 const menuElement = (
   <div>
     {menuItemElement1}
-    {menuItemElement2}
+    <MenuItem name = 'Tartufo' price = "3.50"> 'choclate and vanilla ice cream with a cherry in the middle smolthered in rich choclate for a choclate casing.'</MenuItem>
     <MenuItem name = "Red Velet Cake" price = "2.85"> 'A fluffy red velvet cake with vanilla frosting and raindow sprinkles.'</MenuItem>
     <MenuItem name = "Assorted CheeseCakes" price = "4.80"> 'a platter full of many different cheese cake flavors.'</MenuItem>
   </div>
