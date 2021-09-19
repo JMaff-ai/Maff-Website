@@ -48,7 +48,7 @@ const menuItemElement3 = (
 
 name = 'Assorted Cheesecakes'
 price = 4.80
-description = 'a platter full of many different cheeseckae flavors.'
+description = 'a platter full of many different cheesecake flavors.'
 
 const menuItemElement4 = (
   <div>
@@ -66,8 +66,8 @@ const menuElement = (
   <div>
     {menuItemElement1}
     {menuItemElement2}
-    {menuItemElement3}
-    {menuItemElement4}
+    <MenuItem name = "Red Velet Cake" price = "2.85"> 'A fluffy red velvet cake with vanilla frosting and raindow sprinkles.'</MenuItem>
+    <MenuItem name = "Assorted CheeseCakes" price = "4.80"> 'a platter full of many different cheese cake flavors.'</MenuItem>
   </div>
 
 );
