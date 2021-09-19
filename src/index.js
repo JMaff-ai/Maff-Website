@@ -31,11 +31,43 @@ const menuItemElement2 = (
 
 );
 
+name = 'Red Velet Cake'
+price = 2.85
+description = 'A fluffy red velvet cake with vanilla frosting and raindow sprinkles.'
+
+
+const menuItemElement3 = (
+  <div>
+    <h2>
+      {name}, ${price}
+    </h2>
+    <p>{description}</p>
+  </div>
+);
+
+
+name = 'Assorted Cheesecakes'
+price = 4.80
+description = 'a platter full of many different cheeseckae flavors.'
+
+const menuItemElement4 = (
+  <div>
+    <h2>
+      {name}, ${price}
+    </h2>
+    <p>{description}</p>
+  </div>
+)
+
+
+
 
 const menuElement = (
   <div>
     {menuItemElement1}
     {menuItemElement2}
+    {menuItemElement3}
+    {menuItemElement4}
   </div>
 
 );
