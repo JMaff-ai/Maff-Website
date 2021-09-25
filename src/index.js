@@ -14,7 +14,7 @@ import MenuItem from './MenuItem';
     </p>
     <h2>Directions</h2>
     <p>
-      We are locatied in On Sunrise Highway near Bellmore, right around Home Depot. Come enjoy desserts or start working today!
+      We are locatied in Gecka Town near some Geico Building. Come join us!
     </p>
     <h3>Menu</h3>
     <p>
