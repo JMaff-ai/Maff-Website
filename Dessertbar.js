@@ -9,11 +9,13 @@
     </p>
     <h2>Directions</h2>
     <p>
-      We are locatied in On Sunrise Highway near Bellmore, right around Home Depot. Come enjoy desserts or start working today!
+      We are locatied in Gecka Town near some Geico Town. Come Join Us! 
+      <a href="Directions/Directions.js">Go to Directions Page.</a>
     </p>
     <h3>Menu</h3>
     <p>
       Below is a sample of what we serve, we got varity of cakes and some italian delicaties. Enjoy them however you like!
+      <a
     </p>
   </body>
 </html>
