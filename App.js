@@ -14,6 +14,7 @@ export default function App() {
       <Route exact path="/Dessets/DessertMenu.js">
         <DessertMenu />
       </Route>
+      <Route path="/"><h1>Error 404: File Not Found </h1></Route>
 
       </Switch>
     </Router>
