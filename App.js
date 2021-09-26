@@ -8,7 +8,7 @@ export default function App() {
   return (
     <Router>
       <Switch>
-      <Route exact path="/about/directions.html">
+      <Route exact path="/about/directions.js">
       <DessertBar />
       <DessertMenu />
       <Directions /> (additional HTML/JSX can be added here) </Route>
