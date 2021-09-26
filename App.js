@@ -8,6 +8,8 @@ export default function App() {
   return (
     <Router>
       <Switch>
+      <Route exact path="/about/directions.html">
+      <Directions /> (additional HTML/JSX can be added here) </Route>
 
       </Switch>
     </Router>
