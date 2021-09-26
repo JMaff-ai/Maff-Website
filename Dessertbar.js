@@ -1,4 +1,4 @@
-
+import{Link}from"react-router-dom";
 
 function Dessertbar() {
    return(
@@ -12,12 +12,12 @@ function Dessertbar() {
     <h2>Directions</h2>
     <p>
       We are locatied in Gecka Town near some Geico Town. Come Join Us! 
-      <a href="Directions/Directions.js">Go to Directions Page.</a>
+      <Link to="Directions/Directions.js">Go to Directions Page.</Link>
     </p>
     <h3>Menu</h3>
     <p>
       Below is a sample of what we serve, we got varity of cakes and some italian delicaties. Enjoy them however you like!
-      <a href="Dessets/DessertMenu.js">Go to Dessert Menu.</a>
+      <Link to="Dessets/DessertMenu.js">Go to Dessert Menu.</Link>
     </p>
     </div>
    );
