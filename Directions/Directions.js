@@ -1,3 +1,4 @@
+import{Link}from"react-router-dom";
 function Directions() {
   return (
     <div>
@@ -12,7 +13,7 @@ function Directions() {
       <p> Make a right turn towards Gecka Town - go 0.3</p>
       <p> Make a left at the Geico Building - go 0.4</p>
       <p>
-        <a href="../Dessertbar.js">Back to Dessert Bar.</a>
+        <Link to="../Dessertbar.js">Back to Dessert Bar.</Link>
       </p>
     </div>
   );
