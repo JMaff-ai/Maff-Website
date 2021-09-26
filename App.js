@@ -9,6 +9,8 @@ export default function App() {
     <Router>
       <Switch>
       <Route exact path="/about/directions.html">
+      <DessertBar />
+      <DessertMenu />
       <Directions /> (additional HTML/JSX can be added here) </Route>
 
       </Switch>
