@@ -17,3 +17,5 @@ function Directions() {
     </div>
   );
   }
+
+export default Directions;
