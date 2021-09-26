@@ -14,13 +14,13 @@ function DessertMenu () {
       <img src = {SoftservedIceCream}/>
       </p>
       <p>choclate and vanilla ice cream with a cherry in the middle smolthered in rich choclate for a choclate casing. 
-        <img src ="images/tartufo.jpg"/>
+        <img src ={tartufo}/>
       </p>
       <p>A fluffy red velvet cake with vanilla frosting and rainbow sprinkles.
-        <img src ="images/Red Velet Ckae.jpg"/>
+        <img src ={RedVeletCkae}/>
       </p>
       <p>a platter full of many different cheese ckae flavors. 
-        <img src ="images/Assorted cheesecake.jpg"/>
+        <img src ={Assortedcheesecake}/>
       </p>
       <p>
         <a href="../Dessertbar.js">Back to Dessert Bar</a>
