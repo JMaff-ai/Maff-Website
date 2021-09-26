@@ -15,7 +15,7 @@
     <h3>Menu</h3>
     <p>
       Below is a sample of what we serve, we got varity of cakes and some italian delicaties. Enjoy them however you like!
-      <a
+      <a href="Dessets/DessertMenu.js">Go to Dessert Menu.</a>
     </p>
   </body>
 </html>
