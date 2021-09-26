@@ -14,6 +14,9 @@ function DessertMenu () {
       <p>a platter full of many different cheese ckae flavors. 
         <img src ="images/Assorted cheesecake.jpg"/>
       </p>
+      <p>
+        <a href="../Dessertbar.js">Back to Dessert Bar</a>
+      </p>
     </div>
   );
   }
