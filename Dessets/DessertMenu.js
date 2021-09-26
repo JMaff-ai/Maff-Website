@@ -1,3 +1,4 @@
+import{Link}from"react-router-dom";
 import tartufo from "../images/tartufo.jpg";
 import SoftservedIceCream from "../images/Soft served Ice cream.jpg";
 import RedVeletCkae from "../images/Red Velet Ckae.jpg";
@@ -23,7 +24,7 @@ function DessertMenu () {
         <img src ={Assortedcheesecake}/>
       </p>
       <p>
-        <a href="../Dessertbar.js">Back to Dessert Bar</a>
+        <Link to="../Dessertbar.js">Back to Dessert Bar</Link>
       </p>
     </div>
   );
