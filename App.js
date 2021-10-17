@@ -35,6 +35,22 @@ export default function App() {
         alt="Red Velvet Cake"
         />
       </Route>
+      <Route exact path="/html/softservedicecream.html">
+        <ImageFigure
+        imgsrc={softservedicecream}
+        width={300}
+        height={150}
+        alt="Soft Served Ice Cream"
+        />
+      </Route>
+      <Route exact path="/html/tartufo.html">
+        <ImageFigure
+        imgsrc={tartufo}
+        width={300}
+        height={150}
+        alt="Tartufo"
+        />
+      </Route>
       <Route path="/"><h1>Error 404: File Not Found </h1></Route>
 
       </Switch>
