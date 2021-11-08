@@ -24,3 +24,9 @@ h2 {
   border: thin black dashed;
   background-color: brown;
 }
+
+@media print {
+  body {
+    font-family: webdings, fantasy;
+  }
+}
