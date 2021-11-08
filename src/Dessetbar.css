@@ -15,5 +15,12 @@ h2 {
 }
 
 #Hiring {
-  
+  font-style: italic;
+  color: mediumaquamarine;
+  font-family: 'Gill Sans, Tahoma, serif';
+  line-height: 1.9em;
+  padding: 25px;
+  margin: 30px;
+  border: thin black dashed;
+  background-color: brown;
 }
